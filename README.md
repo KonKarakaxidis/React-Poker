@@ -1,3 +1,6 @@
+Run 'npm run server' to start the server and go to 'http://localhost:8000/'
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
