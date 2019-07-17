@@ -8,10 +8,14 @@ In the project directory, you can run:
 
 Starts the server.
 Open [http://localhost:8000](http://localhost:8000) to get the app from the server.
+To play you need to open two browser tabs and navigate to http://localhost:8000.
+Hit 'Start' and create a poker room by pressing the cross icon. 
+After the room is created, click on the room name to navigate to the table.
+Join the same room from the other browser tab in order to play a game.
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
+Runs the app in development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
